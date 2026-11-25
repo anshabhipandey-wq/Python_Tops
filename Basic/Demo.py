@@ -10,7 +10,7 @@
 # print("python","java","php","android",sep=" | ")
 # print("python","java","php","android",sep=" - ")
 
-name = "Abhishek"
+name = "Ansh"
 surname = "Pandey"
 # print("my name is {} and surname is {}".format(name,surname))  //Here, start index 0
 # print("my name is {0} and surname is {1}".format(name,surname))
