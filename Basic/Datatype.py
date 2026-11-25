@@ -21,3 +21,20 @@
 # print(type(t))
 
 # range
+
+
+# Map Data type : Dict
+# student = {
+#     "name" : "abc",
+#     "email" : "abc@gmail.com"
+# }
+
+#set : set
+# s = {10,20,30,40}
+# print(s)
+# print(type(s))
+
+#boolean : bool
+isExist = True
+print(isExist)
+print(type(isExist))
